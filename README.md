@@ -157,11 +157,3 @@ joblib
 - End-to-end ML pipeline from raw data to deployed application
 
 ---
-
-## Relevance to Shell
-
-Shell's Digital Innovation team works on predictive asset maintenance across oil & gas infrastructure, pipelines, and energy equipment. This project directly mirrors that challenge — building a production-ready classifier that flags at-risk assets before failure, reducing downtime and maintenance costs.
-
----
-
-*Data: NASA CMAPSS via Kaggle | Models: scikit-learn, XGBoost | Explainability: SHAP | Dashboard: Streamlit*
