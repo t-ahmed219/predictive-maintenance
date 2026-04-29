@@ -102,7 +102,7 @@ Accuracy was deliberately avoided — a model predicting everything as healthy w
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/predictive-maintenance.git
+git clone https://github.com/t-ahmed219/predictive-maintenance.git
 cd predictive-maintenance
 ```
 
